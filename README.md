@@ -8,17 +8,17 @@ zt is a command line tool. The source files can be compiled easily, but pre-comp
 
 Please cite the above reference if you use the software.
 
-# Binaries
+## Binaries
 Pre-compiled binaries are available for Linux, Solaris, Windows and Mac OS X [here](https://www.jstatsoft.org/article/view/v007i10)
 
-# Compilation
+## Compilation
 
 Compilation can be done with a c compiler such as gcc with the command:
 ```
 gcc -o zt zt.c rr.c -lm
 ```
 
-# Installation and usage 
+## Installation and usage 
 
 First create a directory where you want to store the soft. Then copy the tar zt.tar in this directory and un-tar it:
 ```
@@ -93,7 +93,7 @@ p =			0.000700 (one-tailed)
 For further details on the results and their interpretation, see the document zt.pdf.
 
 
-# Data files format
+## Data files format
 
 Input files must be flat ASCII files. Matrix are half-matrix (lower part of the square matrix), without (!) diagonal terms. The first number is the size of the complete matrix. For Example if you have the following half-matrix data:
 ```
