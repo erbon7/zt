@@ -9,7 +9,7 @@ zt is a command line tool. The source files can be compiled easily, but pre-comp
 Please cite the above reference if you use the software.
 
 ## Binaries
-Pre-compiled binaries are available for Linux, Solaris, Windows and Mac OS X [here](https://www.jstatsoft.org/article/view/v007i10)
+Pre-compiled binaries are available for Linux, Solaris, Windows and Mac OS X [here](https://www.jstatsoft.org/article/view/v007i10).
 
 ## Compilation
 
