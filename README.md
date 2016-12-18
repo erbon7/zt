@@ -28,14 +28,13 @@ This will expand the main program and the test files.
 
 A simple Mantel test can be performed with the command:
 ```
-  zt -s file1 file2 number_of_randomizations
+zt -s file1 file2 number_of_randomizations
 ```
 
 while for a partial Mantel test, the command will be:
 
 ```
 zt -p file1 file2 file3 number_of_randomizations
-
 ```
 Options for the command line:
   -l display licence.
