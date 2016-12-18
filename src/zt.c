@@ -69,7 +69,6 @@ int main (int argc, char *argv[]) {
   /* header */
   printf ("\nzt - version 1.1\n\n");
   printf ("copyright (c) Eric Bonnet 2001 - 2007\n\n");
-  printf ("mailto: eric.bonnet@psb.ugent.be\n\n");
 
   /* parse arguments a la Kernighan & Ritchie */
   if (argc == 1 || *argv[1] != '-') {
